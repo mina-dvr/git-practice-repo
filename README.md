@@ -297,3 +297,8 @@ Here are some links to check out some more fun stuff to do with Github. Google c
 app_version: 3.0
 Remote change for fetch/pull practice
 Main branch update for merge practice
+
+## Monitoring Tools
+
+- Prometheus: metrics collection and alerting
+- Grafana: metrics visualization and dashboards
